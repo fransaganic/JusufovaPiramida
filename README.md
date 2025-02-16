@@ -1,5 +1,5 @@
 # JusufovaPiramida
-3D puzzle explorer igrica inspirirana Yu-Gi-Oh! parodijom i Indiana Jones filmovima. Napravljena u Unityu u sklopu vještine za FER.
+3D puzzle explorer igrica inspirirana Yu-Gi-Oh! parodijom i Indiana Jones filmovima. Napravljena u Unityu u sklopu predmeta za FER.
 
 
 ## Opis
