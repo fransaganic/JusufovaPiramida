@@ -19,8 +19,8 @@
 
 ![brojkeSoba](https://github.com/user-attachments/assets/c9ebfe2e-ad41-4eb2-ab42-89a66423b0a5)
 
-Jusufova Piramida je igra isnpirirana Yu-Gi-Oh! parodijom o Jusufu i Sibirkom plavcu te također zamkama iz Indiana Jones filmova. Igra se odvija usred pustinje gdje se nalazi novootkrivena piramida faraona Jusufa. Igrač mora istražiti piramidu i riješiti opasne zagonetke kako bi se dokopao Jusufova blaga.
-Tijekom igre igrač skuplja artefakte kako bi mogao otvoriti glavnu sobu gdje se nalazi Jusufovo blago, ali na tom putu ga priječi iznenadni neprijatelj koji je uspio preživiti sve te godine unutar piramide.
+Jusufova Piramida je igra inspirirana Yu-Gi-Oh! parodijom o Jusufu i Sibirskom plavcu te također zamkama iz Indiana Jones filmova. Igra se odvija usred pustinje gdje se nalazi novootkrivena piramida faraona Jusufa. Igrač mora istražiti piramidu i riješiti opasne zagonetke kako bi se dokopao Jusufova blaga.
+Tijekom igre igrač skuplja artefakte kako bi mogao otvoriti glavnu sobu gdje se nalazi Jusufovo blago, ali na tom putu ga priječi iznenadni neprijatelj koji je uspio preživjeti sve te godine unutar piramide.
 
 ## Tehnologije
 - C#
@@ -45,7 +45,7 @@ Tijekom igre igrač skuplja artefakte kako bi mogao otvoriti glavnu sobu gdje se
 - Main menu
 - Easter eggs
 ## Problemi
-- Igrač se ponekad respawna na početku igre nakon puzzle sa brojevima
+- Igrač se ponekad respawna na početku igre nakon puzzle s brojevima
 - AI je veoma šašav, treba popraviti razmišljanje agenta i površinu na kojoj djeluje
 - Potrebno raditi na detaljima igre
 ## Za implementirati
